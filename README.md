@@ -6,7 +6,7 @@ SPRING BOOT + REACT
 > build successful 명령어 출력한다면 성공!
 
 # Server 띄우기
-gradle :bootRun
+gradlew :bootRun
 
 혹은
 
